@@ -1,0 +1,6 @@
+The dataset is collected from Kaagle: https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images?resource=download
+It has 2 directories: Training and Validation (Which I will use as testing)
+Inside there are Xray images of human internal body being fractured and not fractured.
+Total Images - 9463
+Training - 8600
+Testing - 863
